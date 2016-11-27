@@ -1,0 +1,1 @@
+POST    /api/users          org.galsen.doctors.controller.UserController.createAccount()
