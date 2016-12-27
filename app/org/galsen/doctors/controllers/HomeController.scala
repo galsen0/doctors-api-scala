@@ -1,4 +1,4 @@
-package org.galsen.doctors.controller
+package org.galsen.doctors.controllers
 
 import play.api.mvc.{Action, Controller}
 

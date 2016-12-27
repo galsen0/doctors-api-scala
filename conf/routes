@@ -1,1 +1,1 @@
-GET    /       org.galsen.doctors.controller.HomeController.hello()
+GET    /       org.galsen.doctors.controllers.HomeController.hello()
